@@ -9,9 +9,7 @@ I am analyzing a dataset of 200 mall customers. The information in the dataset i
 
 My purpose for writing this software is to gain some experience with analyzing data, by identifying some questions I can use as a guide with my chosen dataset.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Data Analysis Module Demo Video](https://youtu.be/hGiTOp-rti0)
 
 # Data Analysis Results
 
